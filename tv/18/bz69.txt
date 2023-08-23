@@ -7298,7 +7298,6 @@ BF-611,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/57e5af50/index.m3u8
 BF-622,https://t7.cdn2020.com/video/m3u8/2021/07/07/e39a10d3/index.m3u8
 BF-635,https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/bb5ef805/index.m3u8
 BF-638,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/cf654092/index.m3u8
-BF-
 IPX-807,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/db49a284/index.m3u8
 IPX-810,https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/56e4e810/index.m3u8
 IPX-811,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/5c7b1d71/index.m3u8
@@ -7311,7 +7310,7 @@ IPX-832,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/f96d5171/index.m3u8
 IPX-833,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/7629cfa5/index.m3u8
 IPX-840,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/80854a3e/index.m3u8
 IPZ-452,https://t10.cdn2020.com:12335/video/m3u8/2021/08/01/fb103914/index.m3u8
-IPZ-
+
 774,https://t6s.cdn2020.com/video/m3u8/2021/02/03/8ff2f979/index.m3u8
 IPZ-824,https://t10.cdn2020.com:12335/video/m3u8/2021/08/09/199316d0/index.m3u8
 IPZ-826,https://t7.cdn2020.com/video/m3u8/2021/05/09/dd65323c/index.m3u8
