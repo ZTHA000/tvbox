@@ -22,7 +22,7 @@
       "key": "搜索┃豆瓣js",
       "name": "📛TH┃挺好专享【2023-08-24更新接口，长按主页刷新】",
       "type": 3,
-      "api": "https://gitee.com/yyfxz/yyfx/raw/yyfx/js/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
     },
     {
