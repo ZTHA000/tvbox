@@ -1,0 +1,9 @@
+{ 
+    
+    "storeHouse": [
+        {
+            "sourceName": "🎬整挺好啊观影仓库🎥",
+            "sourceUrl": "https://pan.shangui.cc/f/Vq3XU8/%E5%AE%B6%E5%BA%AD%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3_1.txt"
+        }
+    ]
+}
