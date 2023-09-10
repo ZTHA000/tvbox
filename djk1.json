@@ -45,7 +45,16 @@
       "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
       "ext": "https://pan.shangui.cc/f/Xn6wsd/%E7%82%B9%E6%92%AD%E7%9B%B4%E6%92%AD%E6%BA%90.json"
      },
-
+     {
+      "key": "csp_xBPQ_奇优",
+      "name": "📛TH┃奇优影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/%e5%a5%87%e4%bc%98%e5%bd%b1%e8%a7%86.json"
+    },
     {
       "key": "csp_AList_Alist",
       "name": "📛TH┃alist网盘",
