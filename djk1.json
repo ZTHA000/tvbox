@@ -1219,6 +1219,9 @@
 	"api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
 	"ext": "http://shuyuan.miaogongzi.net/shuyuan/1687339319.json"
 	},
+{"key":"csp_XYQHiker素白白","name":"🐛TH┃素白白嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://itvbox.cc/tvbox/云星日记/sh/MaooXB/素白白.json","jar":"http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65"},
+{"key": "圣城影视","name": "🐛TH┃圣城影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://itvbox.cc/tvbox/云星日记/sh/MaooXB/圣城影视xbpq.json"},
+{"key":"Vidhub","name":"🐛TH┃Vidhub影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://itvbox.cc/tvbox/云星日记/sh/MaooXB/Vidhub.json"},	  
 {"key": "有声小说js","name": "🎧TH┃有声小说","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"csp_Yj1211","name":"📱TH┃游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},
 {"key": "csp_XPath_企鹅体育","name": "🐧企鹅体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"},
@@ -1245,7 +1248,7 @@
 {"key": "体育","name": "💋TH┃哔哩体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱体育.json"},
     {
       "key": "小灯塔科学",
-      "name": "🌏小灯塔科学",
+      "name": "🌏TH┃小灯塔科学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1255,7 +1258,7 @@
     },
     {
       "key": "小灯塔地理",
-      "name": "🌏小灯塔地理",
+      "name": "🌏TH┃小灯塔地理",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1265,7 +1268,7 @@
     },
     {
       "key": "小灯塔百科",
-      "name": "🌏小灯塔百科",
+      "name": "🌏TH┃小灯塔百科",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1275,7 +1278,7 @@
     },
     {
       "key": "小灯塔国学",
-      "name": "🌏小灯塔国学",
+      "name": "🌏TH┃小灯塔国学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1286,9 +1289,7 @@
 	  
 //爬虫资源
 
-{"key":"csp_XYQHiker素白白","name":"🐛TH┃素白白嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://itvbox.cc/tvbox/云星日记/sh/MaooXB/素白白.json","jar":"http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65"},
-{"key": "圣城影视","name": "🐛TH┃圣城影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://itvbox.cc/tvbox/云星日记/sh/MaooXB/圣城影视xbpq.json"},
-{"key":"Vidhub","name":"🐛TH┃Vidhub影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://itvbox.cc/tvbox/云星日记/sh/MaooXB/Vidhub.json"},
+
 {"key":"dr_兔小贝","name":"📚TH┃儿童启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"少儿教育","name":"📚TH┃少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/少儿教育.json"},
 {"key":"小学课堂","name":"📚TH┃小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/小学课堂.json"},
