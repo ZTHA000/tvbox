@@ -75,6 +75,16 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/%E5%B0%8F%E9%B9%BF%E5%BD%B1%E8%A7%86.json"
     },
+  {
+      "key": "csp_345",
+      "name": "📛TH┃看片影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/%E7%9C%8B%E7%89%87%E5%BD%B1%E8%A7%86.json"
+    },
     {
       "key": "csp_AList_Alist",
       "name": "📛TH┃alist网盘",
