@@ -85,6 +85,18 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/%E7%9C%8B%E7%89%87%E5%BD%B1%E8%A7%86.json"
     },
+ {
+      "key": "探探",
+      "name": "📛TH┃饭佬影探",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://ytcms.lyyytv.cn/api.php/app/",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
+    },
     {
       "key": "csp_AList_Alist",
       "name": "📛TH┃alist网盘",
