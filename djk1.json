@@ -296,24 +296,6 @@
      "ext": "https://www.kuin.one/api.php/app/"
      },
     {
-      "key": "csp_aote",
-      "name": "📛TH┃奥特直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "📛TH┃低端外剧",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "saohuo",
       "name": "📛TH┃骚火影视",
       "type": 3,
@@ -333,17 +315,6 @@
         "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "🗯️TH┃厂长直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://czzy.art/",
-      "filterable": 1
     },
     {
       "key": "YQK_spider",
@@ -408,7 +379,7 @@
  
     {
       "key": "萌猫",
-      "name": "📛TH┃萌猫BPQ",
+      "name": "📛TH┃萌猫影视",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -506,7 +477,7 @@
     },
     {
       "key": "土豪",
-      "name": "📛TH┃土豪┃BPQ",
+      "name": "📛TH┃土豪影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -572,17 +543,6 @@
       "filterable": 1,
       "ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"
       },   
-    {
-      "key": "侦探TV",
-      "name": "📛TH┃侦探4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/"
-    },
     {
       "key": "app_轻简",
       "name": "📛TH┃轻简影视",
