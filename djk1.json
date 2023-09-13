@@ -436,51 +436,10 @@
         "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
       }
     },
-    {
-      "key": "野马",
-      "name": "📛TH┃野马BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/野马.json"
-    },
-    {
-      "key": "滴答",
-      "name": "📛TH┃滴答BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/滴答.json"
-    },
-    {
-      "key": "双十",
-      "name": "📛TH┃双十直连",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "playerType": "1",
-      "ext": "https://www.1010dy3.com/"
-    },
-    {
-      "key": "奇优",
-      "name": "📛TH┃奇优BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/奇优.json"
-    },
-    {
-      "key": "yunyun",
-      "name": "🗯️️TH┃芸芸BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://xhww.fun:63/小米/源/云云.json"
-    },
+	  
     {
       "key": "看看",
-      "name": "📛TH┃看看BPQ",
+      "name": "📛TH┃看看影视",
       "type": 3,
       "playerType": "1",
       "changeable": 0,
@@ -502,30 +461,7 @@
         "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
-    {
-      "key": "双黄",
-      "name": "📛TH┃双黄BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": "v3-dy-o.zjcdn#.m3u8#",
-        "请求头": "手机#Referer$https://www.dandanju.cc/",
-        "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-        "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-        "搜索模式": "1",
-        "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-        "搜索数组": "<li class=\"active clearfix&&</li"
-      }
-    },
-    {
-      "key": "零度",
-      "name": "📛TH┃零度当贝",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/小刀.json"
-    },
+ 
     {
       "key": "萌猫",
       "name": "📛TH┃萌猫BPQ",
@@ -1365,9 +1301,6 @@
       "filterable": 0,
       "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
     },
-
-{"key":"csp_77","name":"📛TH┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://jk.itvbox.cc:66/tvbox/云星日记/jar/77.jar"},
-
   {
       "key": "csp_Bili",
       "name": "📛TH┃哔哩合集",
