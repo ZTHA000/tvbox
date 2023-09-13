@@ -315,7 +315,7 @@
     },
     {
       "key": "saohuo",
-      "name": "📛TH┃骚火BPQ",
+      "name": "📛TH┃骚火影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -333,62 +333,6 @@
         "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
-    },
-    {
-      "key": "小米",
-      "name": "️📛TH┃小米APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xn--yeta099v.online:66/api.php/app/"
-    },
-    {
-      "key": "蘑菇2",
-      "name": "️📛TH┃蘑菇APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.moguys.xyz/api.php/app/"
-    },
-    {
-      "key": "365",
-      "name": "📛TH┃年年APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://zl.yy365.vip/api.php/app/"
-    },
-    {
-      "key": "测试",
-      "name": "🗯️TH┃落落┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
-    },
-    {
-      "key": "素白",
-      "name": "📛TH┃素白BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/素白.json"
-    },
-    {
-      "key": "蘑菇",
-      "name": "📛TH┃蘑菇BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/蘑菇.json"
     },
     {
       "key": "csp_Czsapp",
