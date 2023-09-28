@@ -76,7 +76,7 @@
     },
 {
       "key": "Aid",
-      "name": "🚑TH┃急救教学♻️",
+      "name": "🚑TH┃急救教学",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
