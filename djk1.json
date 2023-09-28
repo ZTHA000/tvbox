@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "📛微信公众号┃整挺好啊【2023-09-14接口更新】",
+      "name": "📛微信公众号┃整挺好啊【2023-09-28接口更新】",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 0,
@@ -45,6 +45,25 @@
       "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
       "ext": "https://pan.shangui.cc/f/Xn6wsd/%E7%82%B9%E6%92%AD%E7%9B%B4%E6%92%AD%E6%BA%90.json"
      },
+   {
+      "key": "yc",
+      "name": "📛TH┃4KHDR",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+      "jar": "https://pan.shangui.cc/f/qLnbfG/xry914.jar"
+    },
+    {
+      "key": "畅梦",
+      "name": "📛TH┃畅梦秒播",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
+    },
      {
       "key": "csp_xBPQ_奇优",
       "name": "📛TH┃奇优影视",
@@ -55,6 +74,39 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
     },
+{
+      "key": "Aid",
+      "name": "🚑TH┃急救教学♻️",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "csp_woggcli",
+      "name": "📛TH┃俊哥玩偶.T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "📛TH┃玩偶.饭",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
+    }, 
      {
       "key": "csp_花猫",
       "name": "📛TH┃花猫影视",
