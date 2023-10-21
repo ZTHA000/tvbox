@@ -28,7 +28,16 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Doubanrebo.js"
     },
-
+    {
+      "key": "js_豆瓣热播",
+      "name": "📛微信公众号┃整挺好啊【2023-10-21接口更新】",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Api.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Doubanrebo.js"
+    },
     {
       "key": "YGP",
       "name": "🚀TH┃即将上映",
