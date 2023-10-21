@@ -29,16 +29,6 @@
       "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Doubanrebo.js"
     },
     {
-      "key": "js_豆瓣热播",
-      "name": "豆瓣备份",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Doubanrebo.js"
-    },
-    {
       "key": "YGP",
       "name": "🚀TH┃即将上映",
       "type": 3,
