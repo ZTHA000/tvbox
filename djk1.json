@@ -916,9 +916,9 @@
     },
     {
       "key": "js_酷狗MV",
-      "name": "🎻TH┃酷狗音乐",
+      "name": "🎻┃酷狗┃音乐",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -926,9 +926,9 @@
     },
     {
       "key": "js_a8音乐",
-      "name": "🎸TH┃奥迪音乐",
+      "name": "🎸┃奥迪┃音乐",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -936,17 +936,17 @@
     },
     {
       "key": "csp_酷奇",
-      "name": "🎤TH┃酷奇音乐",
+      "name": "🎤┃酷奇┃音乐",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/酷奇MV.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/酷奇MV.json"
     },
     {
       "key": "csp_Anime1",
-      "name": "🌸TH┃动漫系列",
+      "name": "🌸┃动漫┃系列",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -954,344 +954,468 @@
       "filterable": 1
     },
     {
-      "key": "js路漫漫",
-      "name": "👩‍🎨TH┃漫漫动漫",
+      "key": "js58",
+      "name": "👩‍🎨┃五八┃动漫",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/路漫漫.js"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/58动漫.js"
     },
     {
-      "key": "去看动漫",
-      "name": "🎊TH┃去看动漫",
+      "key": "蓝猫动漫",
+      "name": "🌊┃蓝猫┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/去看动漫.json"
-    },
-    {
-      "key": "动漫直链",
-      "name": "🎭TH┃动漫直链",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/动漫直链.json"
-    },
-    {
-      "key": "csp_风车动漫",
-      "name": "🍭TH┃风车动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/风车动漫.json"
+      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
     {
       "key": "csp_动漫巴士",
-      "name": "🤖TH┃动漫巴士",
+      "name": "🤖┃动漫┃巴士",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/动漫巴士.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/动漫巴士.json"
     },
     {
       "key": "py_qie",
-      "name": "🏀TH┃企鹅体育",
+      "name": "🏀┃企鹅┃体育",
       "type": 3,
       "api": "py_qie",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/qie.py"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/qie.py"
     },
     {
       "key": "csp_鹅直播",
-      "name": "🏀TH┃企鹅直播",
+      "name": "🏀┃企鹅┃直播",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/qie.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/qie.json"
     },
     {
       "key": "csp_17看球",
-      "name": "⚽TH┃一起直播",
+      "name": "⚽┃一起┃直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/看球.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/看球.json"
+    },
+    {
+      "key": "js_310直播",
+      "name": "🥎┃三一┃直播",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/310.js"
     },
     {
       "key": "js_88看球",
-      "name": "🏀TH┃八八看球",
+      "name": "🏀┃八八┃看球",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/88看球.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/88看球.js"
     },
     {
-      "key": "py_dashan",
-      "name": "💋TH┃搭讪教程",
+      "key": "js_JRKAN直播",
+      "name": "🥎┃JRK┃看球",
       "type": 3,
-      "api": "py_dashan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/搭讪.py"
-    },
-    {
-      "key": "py_dapei",
-      "name": "💃TH┃搭配教程",
-      "type": 3,
-      "api": "py_dapei",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/搭配.py"
-    },
-    {
-      "key": "js_B站精简",
-      "name": "🅱️TH┃哔哩精简",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/B站精简.js"
-    },
-    {
-      "key": "py_meishi",
-      "name": "🅱️TH┃美食合集",
-      "type": 3,
-      "api": "py_meishi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/美食合集.py"
-    },
-    {
-      "key": "py_youer",
-      "name": "🅱️┃幼儿教育",
-      "type": 3,
-      "api": "py_youer",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/youer.py"
-    },
-    {
-      "key": "py_xiaoxue",
-      "name": "🅱️TH┃小学教育",
-      "type": 3,
-      "api": "py_xiaoxue",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/xiaoxue.py"
-    },
-    {
-      "key": "py_czxx",
-      "name": "🅱️TH┃初中教育",
-      "type": 3,
-      "api": "py_czxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/chuzhong.py"
-    },
-    {
-      "key": "py_gaozxx",
-      "name": "🅱️TH┃高中教育",
-      "type": 3,
-      "api": "py_gaozxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/gaozhong.py"
-    },
-    {
-      "key": "py_zyy",
-      "name": "🅱️TH┃中医药区",
-      "type": 3,
-      "api": "py_zyy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/zyy.py"
-    },
-    {
-      "key": "py_xuqu1",
-      "name": "🅱️TH┃戏曲合集",
-      "type": 3,
-      "api": "py_xuqu1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/xiqu.py"
-    },
-    {
-      "key": "py_TYjs",
-      "name": "🅱️TH┃体育健身",
-      "type": 3,
-      "api": "py_TYjs",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/tiyu.py"
-    },
-    {
-      "key": "py_xiangsh",
-      "name": "🅱️TH┃相声小品",
-      "type": 3,
-      "api": "py_xiangsh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/xiaopin.py"
-    },
-    {
-      "key": "py_FBqx",
-      "name": "🅱️TH┃球队球星",
-      "type": 3,
-      "api": "py_FBqx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/qiudui.py"
-    },
-    {
-      "key": "py_Meinvw",
-      "name": "🅱️TH┃美女舞蹈",
-      "type": 3,
-      "api": "py_Meinvw",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/meinv.py"
-    },
-    {
-      "key": "py_yanchh",
-      "name": "🅱️TH┃歌手合集",
-      "type": 3,
-      "api": "py_yanchh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/geshou.py"
-    },
-    {
-      "key": "py_Nvtuan",
-      "name": "🅱️TH┃女团热舞",
-      "type": 3,
-      "api": "py_Nvtuan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/nvtuan.py"
-    },
-    {
-      "key": "py_MTV",
-      "name": "🅱️TH┃歌曲视频",
-      "type": 3,
-      "api": "py_MTV",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/mtv.py"
-    },
-    {
-      "key": "py_Yinl2",
-      "name": "🅱️TH┃音悦合集",
-      "type": 3,
-      "api": "py_Yinl2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/yinyue.py"
-    },
-    {
-      "key": "js_哔哩直播",
-      "name": "🅱️TH┃哔哩直播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/哔哩直播.js"
-    },
-    {
-      "key": "js_斗鱼直播",
-      "name": "🦈TH┃斗鱼直播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/斗鱼.js"
-    },
-    {
-      "key": "网易CC",
-      "name": "🐠TH┃网易[CC]",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/网易CC.json"
-    },
-    {
-      "key": "csp_dadagui",
-      "name": "🐢TH┃达龟影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/达达龟.json"
-    },
-    {
-      "key": "csp_TVB",
-      "name": "🌤TH┃TVB云播",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/tvb云播.json"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/jrs看球.js"
     },
     {
-      "key": "csp_金眼",
-      "name": "🌟TH┃金眼影视",
+      "key": "js_直播",
+      "name": "🏀┃JRK┃直播",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/JRKAN.js"
     },
-  {
+    {
       "key": "csp_Bili",
-      "name": "📛TH┃哔哩合集",
+      "name": "🅱️┃哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/bili.json"
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/bili.json"
+    },
+    {
+      "key": "py_dashan",
+      "name": "💋┃搭讪┃教程",
+      "type": 3,
+      "api": "py_dashan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/搭讪.py"
+    },
+    {
+      "key": "py_dapei",
+      "name": "💃┃搭配┃教程",
+      "type": 3,
+      "api": "py_dapei",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/搭配.py"
+    },
+    {
+      "key": "js_B站精简",
+      "name": "🅱️┃哔哩┃精简",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/B站精简.js"
+    },
+    {
+      "key": "py_meishi",
+      "name": "🅱️┃美食┃合集",
+      "type": 3,
+      "api": "py_meishi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/美食合集.py"
+    },
+    {
+      "key": "py_youer",
+      "name": "🅱️┃幼儿┃教育",
+      "type": 3,
+      "api": "py_youer",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/youer.py"
+    },
+    {
+      "key": "py_xiaoxue",
+      "name": "🅱️┃小学┃教育",
+      "type": 3,
+      "api": "py_xiaoxue",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiaoxue.py"
+    },
+    {
+      "key": "py_czxx",
+      "name": "🅱️┃初中┃教育",
+      "type": 3,
+      "api": "py_czxx",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/chuzhong.py"
+    },
+    {
+      "key": "py_gaozxx",
+      "name": "🅱️┃高中┃教育",
+      "type": 3,
+      "api": "py_gaozxx",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/gaozhong.py"
+    },
+    {
+      "key": "py_zyy",
+      "name": "🅱️┃中医┃药区",
+      "type": 3,
+      "api": "py_zyy",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/zyy.py"
+    },
+    {
+      "key": "py_xuqu1",
+      "name": "🅱️┃戏曲┃合集",
+      "type": 3,
+      "api": "py_xuqu1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiqu.py"
+    },
+    {
+      "key": "py_TYjs",
+      "name": "🅱️┃体育┃健身",
+      "type": 3,
+      "api": "py_TYjs",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/tiyu.py"
+    },
+    {
+      "key": "py_xiangsh",
+      "name": "🅱️┃相声┃小品",
+      "type": 3,
+      "api": "py_xiangsh",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiaopin.py"
+    },
+    {
+      "key": "py_FBqx",
+      "name": "🅱️┃球队┃球星",
+      "type": 3,
+      "api": "py_FBqx",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/qiudui.py"
+    },
+    {
+      "key": "py_Meinvw",
+      "name": "🅱️┃美女┃舞蹈",
+      "type": 3,
+      "api": "py_Meinvw",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/meinv.py"
+    },
+    {
+      "key": "py_yanchh",
+      "name": "🅱️┃歌手┃合集",
+      "type": 3,
+      "api": "py_yanchh",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/geshou.py"
+    },
+    {
+      "key": "py_Nvtuan",
+      "name": "🅱️┃女团┃热舞",
+      "type": 3,
+      "api": "py_Nvtuan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/nvtuan.py"
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎹┃MTV┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_MTV",
+      "name": "🅱️┃歌曲┃视频",
+      "type": 3,
+      "api": "py_MTV",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mtv.py"
+    },
+    {
+      "key": "py_Yinl2",
+      "name": "🅱️┃音悦┃合集",
+      "type": 3,
+      "api": "py_Yinl2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/yinyue.py"
+    },
+    {
+      "key": "js_哔哩直播",
+      "name": "🅱️┃哔哩┃直播",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/哔哩直播.js"
+    },
+    {
+      "key": "短视频",
+      "name": "📱┃网红┃美女",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/短视频聚合.json"
+    },
+    {
+      "key": "js_Yj1211直播",
+      "name": "👑┃直播┃合集",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/jrslive.js"
+    },
+    {
+      "key": "py_huya",
+      "name": "🐯┃虎牙┃[PY]",
+      "type": 3,
+      "api": "py_huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/pyhuya.py"
+    },
+    {
+      "key": "csp_虎牙",
+      "name": "🐯┃虎牙┃直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/虎牙.json"
+    },
+    {
+      "key": "js_斗鱼直播",
+      "name": "🦈┃斗鱼┃直播",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/斗鱼.js"
+    },
+    {
+      "key": "网易CC",
+      "name": "🐠┃网易┃[CC]",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/网易CC.json"
+    },
+    {
+      "key": "js_i275听书",
+      "name": "📚️┃听书┃i275",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/i275.js"
+    },
+    {
+      "key": "js_爱上你听书网",
+      "name": "📚️┃听书┃爱尚",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/aishang.js"
+    },
+    {
+      "key": "js_博看听书",
+      "name": "📚️┃听书┃博看",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bokan.js"
+    },
+    {
+      "key": "js_海洋听书",
+      "name": "📚️┃听书┃海洋",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/sea.js"
+    },
+    {
+      "key": "js_六月听书",
+      "name": "📚️┃听书┃六月",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6yue.js"
+    },
+    {
+      "key": "js_听书网",
+      "name": "📚️┃听书┃天天",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tingshu.js"
+    },
+    {
+      "key": "js_有声小说",
+      "name": "📚️┃听书┃有声",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/yousheng.js"
+    },
+    {
+      "key": "js_中华听书网",
+      "name": "📚️┃听书┃中华",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/zhonghua.js"
     },
      {
       "key": "push_agent",
