@@ -6,7 +6,7 @@
   [
   {"name": "live",
   "type": 0,
-  "url":"https://pan.shangui.cc/f/75mPhM/%E5%BD%B1%E5%AD%90TV.txt",
+  "url":"https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/YZtv.txt",
   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
   }
   ],
