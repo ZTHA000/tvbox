@@ -16,15 +16,35 @@
   ],
   "warningText": "2023-08-24更新接口，每次打开记得长按主页刷新！",
   "sites": [
-    {
-      "key": "搜索┃豆瓣js",
-      "name": "📛TH┃挺好专享【2023-08-24更新接口，长按主页刷新】",
+        {
+      "key": "js豆瓣",
+      "name": "📛TH┃挺好专享【2023-10-27更新接口，长按主页刷新】",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
+      "api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Doubanrebo.js"
     },
     {
-    "key": "直播转点播",
+      "key": "YGP",
+      "name": "🚀TH┃即将上映",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+     {
+      "key": "直播转点播1",
+      "name": "📛TH┃电视点播",
+      "type": 3,
+      "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
+     },
+    
+    {
+    "key": "直播转点播2",
     "name": "📛TH┃福利点播",
     "type": 3,
     "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
