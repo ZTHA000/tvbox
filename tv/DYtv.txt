@@ -1,4 +1,13 @@
-💫央视频道,#genre#
+📛大鱼TV,#genre#
+微信公众号,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
+挺好分享,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+所有资源,http://tv.nxog.top/m/404/xjj.php
+均为免费,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-zL9QUo4L7HJQ.mp4
+QQ频道,http://tv.nxog.top/m/404/xjj.php
+频道号：,http://tv.nxog.top/m/404/xjj.php
+391n1p36m0,http://tv.nxog.top/m/404/xjj.php
+
+📛央视频道,#genre#
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -95,7 +104,7 @@ CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 
 
 
-💫卫视频道,#genre#
+📛卫视频道,#genre#
 北京卫视,P2p://135.148.104.228:19806/06648fa4716e4c0f858f936ec55a5b08
 天津卫视,P2p://135.148.104.228:19806/753b5a1ce87949e797618d7a05919c87
 河北卫视,P2p://135.148.104.228:19806/6bafcb082dd348218d7d85a4219c3cf2
@@ -198,7 +207,8 @@ CHC家庭影院,P2p://135.148.104.228:19806/bbe8e8a94b974d27a3503380b5b934ce
 崇仁综合频道,http://live.mudu.tv/watch/23ejte.m3u8?zjiangxd
 东乡区综合频道,http://live.mudu.tv/watch/hnkexb.m3u8?zjiangxd
 永新电视一套,http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8?zjiangxd
-💫云南综合,#genre#
+
+📛云南综合,#genre#
 德宏新闻综合,http://hw-play.lezhibo.com/live/0c86d6ff906e424fb4457a4806f645ea.m3u8?zyund
 德宏公共民语,http://hw-play.lezhibo.com/live/0e0bf436ed2847eaa7083a11c185f221.m3u8?zyund
 红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
@@ -258,7 +268,8 @@ CHC家庭影院,P2p://135.148.104.228:19806/bbe8e8a94b974d27a3503380b5b934ce
 永善综合,http://livebroadcastys.ccwb.cn/live/w1640068184635996.m3u8?zyund
 福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
 贡山综合,http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8?zyund
-💫甘肃综合,#genre#
+
+📛甘肃综合,#genre#
 白银综合,http://live.bygd.cn/byzh/sd/live.m3u8?gansu
 白银公共,http://live.bygd.cn/bygg/sd/live.m3u8?zgand
 白银文化教育,http://live.bygd.cn/bygg/sd/live.m3u8
@@ -294,12 +305,12 @@ CHC家庭影院,P2p://135.148.104.228:19806/bbe8e8a94b974d27a3503380b5b934ce
 清水综合,https://play.kankanlive.com/live/1680856022756939.m3u8
 天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 
-💫😈贵州综合,#genre#
+📛贵州综合,#genre#
 黔南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 黔南公共,rtmp://tv.qntv.net/channellive/ch2?zguizd
 
 
-🎃广东广州综合,#genre#
+📛广东广州综合,#genre#
 嘉佳卡通,http://111.40.196.25:443/PLTV/88888888/224/3221225647/1.m3u8
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 GRTN记录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1674485030-0-0-8e72afed6ab44396dc4d6271a6b412ca
@@ -362,12 +373,13 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 安顺公共,http://player4.juyun.tv/camera/113071181.m3u8
 石阡台,http://111.123.209.13:9000/hls/main/playlist.m3u8
 
-🌴陕西综合,#genre#
+📛陕西综合,#genre#
 安康新闻综合,https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakzhpd.m3u8?zhend
 安康公共台,https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakggpd.m3u8?zhend
 安康教育,https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakjypd.m3u8?zhend
 山西卫视,http://wabc.ml/sxg.php?id=sxws42_4000
-👩‍🏫山西综合,#genre#
+
+📛山西综合,#genre#
 晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8?zshanxd
 晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
@@ -393,7 +405,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 灵石新闻综合,https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
-👫重庆综合,#genre#
+
+📛重庆综合,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
@@ -409,7 +422,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
 北碚综合,http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
-💫湖南综合,#genre#
+
+📛湖南综合,#genre#
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
 湖南电影,rtmp://fms.yyrtv.com/livepkgr/hndy210130?zhund
@@ -420,7 +434,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 宜章新闻综合,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8?zhund
 
 
-💫四川综合,#genre#
+📛四川综合,#genre#
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 广元综合,http://tv.dzsm.com:8100/chan/ch1.flv?zsicd
 广元综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
@@ -696,7 +710,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
 
 
-💫福建综合,#genre#
+📛福建综合,#genre#
 龙岩新闻综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8?zfud
 龙岩新闻综合,http://stream.lytv.net.cn/2/sd/live.m3u8?zfud
 龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
@@ -729,7 +743,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 
 
 
-💫河北综合,#genre#
+📛河北综合,#genre#
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
@@ -767,12 +781,12 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 滦平新闻频道,https://live.lpxrmtzx.com/live/wh.m3u8?zhebd
 滦平新闻频道,rtmp://live.lpxrmtzx.com/live/wh?zhebd
 
-💃🏿上海综合,#genre#
+📛上海综合,#genre#
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
 
-💫湖北综合,#genre#
+📛湖北综合,#genre#
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
@@ -786,7 +800,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
 
 
-💫广西综合,#genre#
+📛广西综合,#genre#
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
@@ -810,7 +824,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 上林电视台,rtmp://rtmp.nntv.cn/nnlive/SLTV_A
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 
-🌕内蒙古综合,#genre#
+📛内蒙古综合,#genre#
 鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
 鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8?zneimd
 鄂尔多斯城市生活,http://live.erdszs.org.cn/lsdream/726npBZ/1000/live.m3u8?zneimd
@@ -829,8 +843,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
 察右前旗综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160073959279435.m3u8?zneimd
 鄂温克电视台,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8?zneimd
-💫吉林综合,#genre#
 
+📛吉林综合,#genre#
 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
 吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
 吉林影院,http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild
@@ -901,7 +915,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
-💫新疆综合,#genre#
+📛新疆综合,#genre#
 昌吉综合,rtmp://live.cjshw.com/live/cjdst?zxinjd
 昌吉综合,rtmp://222.80.229.110:1935/hls/Trz2Tl9Wg?zxinjd
 昌吉城市生活,rtmp://live.cjshw.com/live/cjsh?zxinjd
@@ -934,7 +948,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 
 
 
-💫安徽综合,#genre#
+📛安徽综合,#genre#
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 芜湖新闻综合,http://live1.wuhubtv.com/channel1/sd/live.m3u8?zanhd
 芜湖公共,http://live1.wuhubtv.com/channel3/sd/live.m3u8?zanhd
@@ -975,7 +989,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
 岳西综合,rtmp://58.243.4.22:1935/live/zonghe?zanhd
 
-✨少儿频道,#genre#
+📛少儿频道,#genre#
 空中课堂_一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 空中课堂_二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 空中课堂_三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -1037,7 +1051,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=161728
 key=0b292c335e5837e947f9409c59228f3e6
 
 
-💫电影综合,#genre#
+📛电影综合,#genre#
 神乐影片2,http://epg.112114.xyz/douyu/85894
 龙翔电影,http://103.112.191.9:880/LAOSAT1084.m3u8
 龙翔电影,http://103.112.191.9:880/LAOSAT1084.m3u8
@@ -1072,7 +1086,7 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 好莱坞电影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 
 
-🐠斗鱼电影轮播,#genre#
+📛斗鱼电影轮播,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 计划！五一节の快乐,http://epg.112114.xyz/douyu/7528160
@@ -1165,7 +1179,7 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 斗鱼电影130,http://epg.112114.xyz/douyu/8014467
 斗鱼电影150,http://epg.112114.xyz/douyu/3980787
 
-🙇‍♀️埋堆堆,#genre#
+📛埋堆堆,#genre#
 埋堆堆1,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23749096
 埋堆堆2,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23735126
 埋堆堆3,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23865152
@@ -1197,8 +1211,7 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 埋堆堆29,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23863818
 
 
-🦋爱奇艺,#genre#
-
+📛爱奇艺,#genre#
 爱奇艺兔小贝,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
 爱奇艺兔小贝,http://lvbaiducdncmn.inter.ptqy.gitv.tv/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
 爱奇艺兔小贝,http://ib302.zjcdn.com/baiducdncmn3.inter.iqiyi.com/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
@@ -1212,7 +1225,8 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 爱奇艺宝宝课堂,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key
 爱奇艺贝瓦儿歌,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?key
 爱奇艺宝宝巴士,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
-🇭🇰港澳台,#genre#
+
+📛港澳台,#genre#
 台视,http://8.217.19.107:18128/islitve/twiptv.php?id=live1047
 中视,http://8.217.19.107:18128/islitve/twiptv.php?id=live1048
 华视,http://8.217.19.107:18128/islitve/twiptv.php?id=live1049
@@ -2072,7 +2086,7 @@ HBO原创巨献,mitv://generationnexxxt.com:19806/204ee05399b54af1bdd27f54ee46d5
 
 
 
-B站直播,#genre#
+📛B站直播,#genre#
 哔哩1,http://43.138.170.29:35455/bilibili/27906685
 哔哩2,http://43.138.170.29:35455/bilibili/23058
 哔哩3,http://43.138.170.29:35455/bilibili/70155
@@ -2181,7 +2195,7 @@ B站直播,#genre#
 哔哩108,http://43.138.170.29:35455/bilibili/29000991
 
 
-🌐国外频道,#genre#
+📛国外频道,#genre#
 [BA]malta,http://webtvstream.bhtelecom.ba/malta.m3u8
 [BA]RTV BPK (720p),https://webtvstream.bhtelecom.ba/gorazde_cam2.m3u8
 [BY;RU]БелРос (576p),http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -2715,8 +2729,13 @@ CGTNРусский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 新加坡_CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?zshijd
 
-🌈松狮欧美版_6523,#genre#
+🔑密码获取,#genre#
+公众号,http://tv.nxog.top/m/404/xjj.php
+挺好分享,http://tv.nxog.top/m/404/xjj.php
+后台回复:,http://tv.nxog.top/m/404/xjj.php
+VIP密码,http://tv.nxog.top/m/404/xjj.php
 
+🔐松狮欧美版_6523,#genre#
 俄罗斯成人1台,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
 俄罗斯成人1台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
 俄罗斯成人2台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
@@ -2759,7 +2778,8 @@ EroxHD,http://94.229.250.73:8008/play/a002
 MiamiTVJennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 MiamiTVMéxico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 MiamiTVJennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
-🌐伦理资源_6523,#genre#
+
+🔐伦理资源_6523,#genre#
 🔞公众号,https://cdn1.68zybf1.com/20230121/IiYICDDe/index.m3u8
 🔞空格爱分享,https://cdn1.68zybf1.com/20230121/9B7wpvGQ/index.m3u8
 🔞鬼接,https://cdn1.68zybf1.com/20230121/XDCNPJ62/index.m3u8
@@ -2902,11 +2922,9 @@ MiamiTVJennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/
 🅱️人肉玩具,https://v5.jindangao.com/gg/g3/36/hls/index.m3u8
 🅱️淫魔暴行,https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
 🅱️山狗1999,https://v5.jindangao.com/gg/g6/42/hls/index.m3u8
-🅱️
 
 
-🏍测试2_6523,#genre#
-
+🔐测试2_6523,#genre#
 欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
 欧美3,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
 街头搭讪放浪少女,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/e3821ad5/index.m3u8
@@ -2969,7 +2987,7 @@ O-la-la,http://89.248.160.57/iptv/URFPS4QVV53QPF/2161/index.m3u8
 FAP TV 4,http://89.248.160.57/iptv/URFPS4QVV53QPF/6205/index.m3u8
 FAP TV Compilation,http://89.248.160.57/iptv/URFPS4QVV53QPF/6208/index.m3u8
 
-💋VlP会所_6523,#genre#
+🔐VlP会所_6523,#genre#
 按摩花裙子骚妇做大保健,https://m3u8.63cdn.com/newhd/202104/607fde89f109253e1825577a/m3u8/index.m3u8#
   SPA按摩少妇做全套,https://m3u8.44cdn.com/newhd/202104/607fde89f109253e18255750/m3u8/index.m3u8#
   按摩白皙少妇又来光顾了,https://m3u8.48cdn.com/newhd/202104/607fde89f109253e18255719/m3u8/index.m3u8#
@@ -3014,8 +3032,8 @@ FAP TV Compilation,http://89.248.160.57/iptv/URFPS4QVV53QPF/6208/index.m3u8
   菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8#
   兄弟新交的女朋友-李雪,https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8#
   公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8#
-🍟老麻豆_6523,#genre#
 
+🔐老麻豆_6523,#genre#
 老麻豆215,https://video2.51daao.com/btt1/2021/05/20210515/9JhLXiGi/index.m3u8
 老麻豆214,https://video2.51daao.com/btt1/2021/05/20210515/ATGIBLJw/index.m3u8
 老麻豆213,https://video2.51daao.com/btt1/2021/05/20210515/h8xXtwMh/index.m3u8
@@ -3228,8 +3246,8 @@ FAP TV Compilation,http://89.248.160.57/iptv/URFPS4QVV53QPF/6208/index.m3u8
 老麻豆04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8
 老麻豆02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8
 老麻豆01,https://video2.51daao.com/btt1/2021/07/20210708/7quARUC4/index.m3u8
-👠新麻豆_6523,#genre#
 
+🔐新麻豆_6523,#genre#
 新魔豆13,https://10j99.cdnedge.live/file/avple-images/hls/614905c936d1ea113b7004a2/playlist.m3u8
 新魔豆14,https://u89ey.cdnedge.live/file/avple-images/hls/61490599aa66a611331a8a68/playlist.m3u8
 新魔豆15,https://w9n76.cdnedge.live/file/avple-images/hls/6149055daa66a611331a8a67/playlist.m3u8
@@ -3638,9 +3656,7 @@ FAP TV Compilation,http://89.248.160.57/iptv/URFPS4QVV53QPF/6208/index.m3u8
 新魔豆493,https://e2fa6.cdnedge.live/file/avple-images/hls/60a523cbe14ac8644b10c55e/playlist.m3u8
 新魔豆494,https://8bb88.cdnedge.live/file/avple-images/hls/60a51f15e14ac8644b10c55d/playlist.m3u8
   
-
-💃加勒比_6523,#genre#
-
+🔐加勒比_6523,#genre#
 加勒比112318美月,https://fc.maa1804.com/g/ijttkoqump/ijttkoqump.m3u8
 加勒比120316音羽,https://fc.maa1804.com/f/rnczxtyxch/rnczxtyxch.m3u8
 加勒比072117七濑,https://fc.maa1804.com/h/evzmbhpmfo/evzmbhpmfo.m3u8
@@ -3749,8 +3765,7 @@ heyzo1601北川,https://fc.maa1801.com/d/mdsjynuabc/mdsjynuabc.m3u8
 加勒比081216西川,https://fc.maa1801.com/f/kiodjzacdz/kiodjzacdz.m3u8
 加勒比090716西川,https://fc.maa1801.com/d/fhctzryess/fhctzryess.m3u8
 
-💃🏿安全驾驶_6523,#genre#
-QQ群111392749,http://cdn.adultiptv.net/livecams.m3u8
+🔐安全驾驶_6523,#genre#
 浓厚接吻,https://bp1.dkkomo.com/stream/full/japan/3200/111420_001-1pon.m3u8
 大奶子女主播 穿衣显瘦,https://play.bo7521521.com/20210925/cQWuR7DH/index.m3u8
 _032_女D_20201220,https://vip6.3sybf.com/20210718/AKuZEDTi/2000kb/hls/index.m3u8
@@ -3787,7 +3802,8 @@ KU小树林干骚表姐【下篇】全程露脸激情啪啪，草嘴深喉小板
 极品按摩师带你领略业内各种失传绝活真是长姿势了,https://vip2.lbbf9.com/20210915/Qmrx377Q/index.m3u8
 你的私人教练_自慰_20210413,https://vip6.3sybf.com/20210718/d1R2kUsJ/index.m3u8
 wuli北_收费诱惑_20201218,https://vip6.3sybf.com/20210718/xSuIkePw/index.m3u8
-🏎按摩室_6523,#genre#
+
+🔐按摩室_6523,#genre#
 按摩女孩,http://12204.vod.adultiptv.net/ph58294746dcb7c/play.m3u8
 按摩妓女蘿拉·亨特（Lola Hunter）和她的客戶有一個巨大的公雞很幸運,http://6122.vod.adultiptv.net/ph57f4d246107b6/play.m3u8
 按摩姐姐會導致體內射精-梅蘭妮·希克斯（Melanie Hicks）-家庭療法,http://12156.vod.adultiptv.net/ph5abddf43b5df5/play.m3u8
@@ -3970,4 +3986,3 @@ wuli北_收费诱惑_20201218,https://vip6.3sybf.com/20210718/xSuIkePw/index.m3u
 最佳噴包集合第4部分2018,http://1465.vod.redtraffic.xyz/ph5b3873d509bd2/play.m3u8
 最佳女同志彙編,http://6122.vod.redtraffic.xyz/ph59bc7ebd81bf4/play.m3u8
 最佳女學生彙編,http://218158.vod.redtraffic.xyz/ph594a2dcb3f03c/play.m3u8
-后期将取消密码频道,#genre#
