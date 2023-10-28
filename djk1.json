@@ -54,6 +54,17 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Free%E5%BD%B1%E8%A7%86.json"
     },
+{
+      "key": "csp_乐猪",
+      "name": "📛TH┃乐猪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"
+    },	  
+	  
    {
       "key": "yc",
       "name": "📛TH┃4KHDR",
