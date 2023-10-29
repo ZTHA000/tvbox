@@ -37,13 +37,13 @@
       "quickSearch": 0,
       "changeable": 0
     },
-     {
+{
       "key": "直播转点播",
       "name": "📛TH┃电视点播",
       "type": 3,
-      "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
-      "ext": "https://pan.shangui.cc/f/Xn6wsd/%E7%82%B9%E6%92%AD%E7%9B%B4%E6%92%AD%E6%BA%90.json"
-     },
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/apiv53zbzdb.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/dbiptv.json"
+},
 {
       "key": "thfx_345看片",
       "name": "📛TH┃345看片",
