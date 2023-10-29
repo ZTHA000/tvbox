@@ -113,7 +113,7 @@
 	"api": "csp_AList",
 	"searchable": 1,
 	"changeable": 0,
-	"ext": "https://pan.shangui.cc/f/n0NNF2/alist00.json",
+	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/TH_alist.json",
 	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/custom_spider.jar"
  },
     {
