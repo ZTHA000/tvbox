@@ -45,15 +45,59 @@
       "ext": "https://pan.shangui.cc/f/Xn6wsd/%E7%82%B9%E6%92%AD%E7%9B%B4%E6%92%AD%E6%BA%90.json"
      },
 {
-      "key": "Free影视",
-      "name": "📛TH┃Free影视",
+      "key": "thfx_345看片",
+      "name": "📛TH┃345看片",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Free%E5%BD%B1%E8%A7%86.json"
-    },
+      "ext": "https://codeberg.org/ztha/tvbox/raw/branch/main/js/345%E7%9C%8B%E7%89%87.json"
+     },  
+
+   {
+      "key": "thfx_91影视",
+      "name": "📛TH┃91影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ztha/tvbox/raw/branch/main/js/91%E5%BD%B1%E8%A7%86.json"
+     },   
+   {
+      "key": "花猫影视",
+      "name": "📛TH┃花猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/jss/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+     },
+
+    {
+      "key": "66影视",
+      "name": "📛TH┃66影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/jss/66%E5%BD%B1%E8%A7%86.json"
+     },
+
+    {
+      "key": "98影视",
+      "name": "📛TH┃98影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/jss/98%E5%BD%B1%E8%A7%86.json"
+     },
+
 {
       "key": "csp_乐猪",
       "name": "📛TH┃乐猪影视",
@@ -64,6 +108,18 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"
     },	  
+	  
+{
+      "key": "Free影视",
+      "name": "📛TH┃Free影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Free%E5%BD%B1%E8%A7%86.json"
+    },
+
 	  
    {
       "key": "yc",
