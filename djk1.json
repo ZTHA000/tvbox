@@ -107,6 +107,15 @@
         "ratio": 3.8
       }
     },
+ {	"key": "AList",
+	"name": "📀AList网盘",
+	"type": 3,
+	"api": "csp_AList",
+	"searchable": 1,
+	"changeable": 0,
+	"ext": "https://pan.shangui.cc/f/n0NNF2/alist00.json",
+	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/custom_spider.jar"
+ },
     {
       "key": "csp_woggcli",
       "name": "📛TH┃俊哥玩偶.T4",
