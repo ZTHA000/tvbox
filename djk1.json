@@ -377,19 +377,9 @@
     "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
     "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
    }, 
-   {
-      "key": "纸条",
-      "name": "🔎┃纸条搜索",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://pan.shangui.cc/f/8VKpHo/ali.jar"
-    },
     {
       "key": "csp_阿里七夜",
-      "name": "🔎┃阿里七夜",
+      "name": "🔍┃阿里┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -397,9 +387,30 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
+
+    {
+      "key": "csp_XiaoZhiTiao",
+      "name": "🔍┃阿里┃纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🔍‍┃阿里┃PanS",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
     {
       "key": "Upyunso",
-      "name": "🔎┃阿里云搜",
+      "name": "🔍┃阿里┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -409,7 +420,7 @@
     },
     {
       "key": "Alips",
-      "name": "🔎┃阿里盘搜",
+      "name": "🔍┃阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -417,9 +428,10 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
+
     {
       "key": "Yisou",
-      "name": "🔎┃阿里易搜",
+      "name": "🔍┃阿里┃易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -429,7 +441,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🔍┃阿里找片",
+      "name": "🔍┃阿里┃找片",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -437,6 +449,7 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
     },
+	  
     {
       "key": "Zhaozy",
       "name": "🔎资源┃搜索",
