@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;606BE3EE268CE371705DE93EC549C637",
+  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582",
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 
   "lives": 
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "📛微信公众号┃整挺好啊【2023-10-26接口更新】",
+      "name": "📛微信公众号┃整挺好啊【2023-11-2接口更新】",
       "type": 3,
       "api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js",
       "searchable": 0,
@@ -37,13 +37,265 @@
       "quickSearch": 0,
       "changeable": 0
     },
-{
-      "key": "直播转点播",
-      "name": "📛TH┃电视点播",
+    {
+      "key": "csp_WoGG",
+      "name": "➰‍TH┃玩偶4K",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/apiv53zbzdb.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/dbiptv.json"
-},
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+    },
+   {
+      "key": "csp_WoGG1",
+      "name": "➰‍TH┃玩偶4KBY",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://wogg.xyz/"
+    },    
+    {
+      "key": "js_4KHDR",
+      "name": "➰TH┃玩偶姐姐",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/4KHDR.js"
+    },
+     {
+      "key": "csp_woggcli",
+      "name": "➰TH┃俊哥玩偶.T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "➰TH┃玩偶.饭",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
+    },   
+    {
+      "key": "js_6V",
+      "name": "🧲TH┃六维磁力",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6V.js"
+    },
+    {
+      "key": "XYQH_电影港",
+      "name": "🧲TH┃港口磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
+    },
+    {
+      "key": "js_酷吧",
+      "name": "🧲TH┃酷吧磁力",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/kuba.js"
+    },
+
+    {
+      "key": "csp_Mp4Mov",
+      "name": "🧲TH┃Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"
+    },
+
+    {
+      "key": "csp_New6v",
+      "name": "🧲TH┃新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://www.xb6v.com",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"
+     },
+
+    {
+      "key":"csp_SeedHub",
+      "name":"🧲TH┃SeedHub",
+      "type":3,
+      "api":"csp_SeedHub",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"
+    },
+
+    {
+      "key":"csp_KubaCL",
+      "name":"🧲TH┃酷吧电影",
+      "type":3,
+      "api":"csp_KubaCL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"
+    },
+
+    {
+      "key":"csp_MeijuTT",
+      "name":"🧲TH┃美剧天堂",
+      "type":3,
+      "api":"csp_MeijuTT",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"
+    },
+
+    {
+      "key":"csp_MeijuMi",
+      "name":"🧲TH┃美剧迷",
+      "type":3,
+      "api":"csp_MeijuMi",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"
+    },
+
+    { 
+    "key": "csp_XYQHiker4klg", 
+    "name": "🧲TH┃原盘4k", 
+    "type": 3,
+    "api": "csp_XYQHiker", 
+    "searchable": 1,
+    "quickSearch": 1, 
+    "filterable": 1, 
+    "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
+    "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+   }, 
+
+   {
+      "key": "csp_阿里七夜",
+      "name": "🔍┃阿里┃七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+
+    {
+      "key": "csp_XiaoZhiTiao",
+      "name": "🔍┃阿里┃纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🔍‍┃阿里┃PanS",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Upyunso",
+      "name": "🔍┃阿里┃云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Alips",
+      "name": "🔍┃阿里┃盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+
+    {
+      "key": "Yisou",
+      "name": "🔍┃阿里┃易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍┃阿里┃找片",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+    },
+	  
+    {
+      "key": "Zhaozy",
+      "name": "🔎┃资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+    },
+    {
+       "key":"csp_search_Upyunso",
+       "name":"🔎┃云搜┃搜索",
+       "type":3,
+       "api":"csp_UpYun",
+       "playerType":1,
+       "searchable":1,
+       "quickSearch" :1,
+       "filterable":0,
+       "ext":"782c15afa660408b8b6d9289ff8b79d6"
+     },
+
 {
       "key": "thfx_345看片",
       "name": "📛TH┃345看片",
@@ -119,7 +371,6 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/Free%E5%BD%B1%E8%A7%86.json"
     },
-
 	  
    {
       "key": "yc",
@@ -163,35 +414,27 @@
         "ratio": 3.8
       }
     },
- {	"key": "AList",
-	"name": "📀AList网盘",
-	"type": 3,
-	"api": "csp_AList",
-	"searchable": 1,
-	"changeable": 0,
-	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/TH_alist.json",
-	"jar": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/custom_spider.jar"
- },
-    {
-      "key": "csp_woggcli",
-      "name": "📛TH┃俊哥玩偶.T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "📛TH┃玩偶.饭",
+
+ {	
+      "key": "AList",
+      "name": "📀TH┃AList网盘",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_AList",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
-    },
+      "changeable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/TH_alist.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/custom_spider.jar"
+ },
+
+ {
+      "key": "直播转点播",
+      "name": "📛TH┃电视点播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/apiv53zbzdb.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/dbiptv.json"
+},
+
+
     {
       "key": "drpy_js_优酷1",
       "name": "📛TH┃优酷(官源)",
@@ -272,16 +515,7 @@
       "ext": "http://ytcms.lyyytv.cn/api.php/app/",
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     },
-    {
-      "key": "csp_AList_Alist",
-      "name": "📛TH┃alist网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/yPzECK/tvbox_alist.json"
-    },
+
     {
       "key": "csp_Lib",
       "name": "📛TH┃利播影视",
@@ -292,186 +526,17 @@
       "changeable": 1,
       "ext": "https://www.libvio.fun/"
     },
-    {
-      "key": "csp_WoGG",
-      "name": "💂‍TH┃玩偶4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
-    },
-   {
-      "key": "csp_WoGG1",
-      "name": "💂‍TH┃玩偶4KBY",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://wogg.xyz/"
-    },
-    {
-      "key": "Qtv",
-      "name": "🐧TH┃腾腾解析",
-      "type": 3,
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Itv",
-      "name": "🥝TH┃爱爱解析",
-      "type": 3,
-      "api": "csp_Itv",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Mtv",
-      "name": "🍋TH┃芒芒解析",
-      "type": 3,
-      "api": "csp_Mtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
+ 
    {
       "key": "磁力",
-      "name": "🧲TH┃荐片磁力",
+      "name": "📛TH┃荐片磁力",
       "type": 3,
       "playerType": "1",
       "api": "http://xhww.fun:63/js/drpy1.min.js",
       "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
     },
 
-    {"key": "csp_Mp4Mov","name": "🧲TH┃Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
-        {"key": "csp_New6v","name": "🧲TH┃新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
-        {"key":"csp_SeedHub","name":"🧲TH┃SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
-        {"key":"csp_KubaCL","name":"🧲TH┃酷吧电影","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
-        {"key":"csp_MeijuTT","name":"🧲TH┃美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
-        {"key":"csp_MeijuMi","name":"🧲TH┃美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
-    {
-      "key": "XYQH_电影港",
-      "name": "🧲TH┃港口磁力",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
-      "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
-    },
-    { 
-    "key": "csp_XYQHiker4klg", 
-    "name": "🧲TH原盘4k", 
-    "type": 3,
-    "api": "csp_XYQHiker", 
-    "searchable": 1,
-    "quickSearch": 1, 
-    "filterable": 1, 
-    "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
-    "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-   }, 
-    {
-      "key": "csp_阿里七夜",
-      "name": "🔍┃阿里┃七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-
-    {
-      "key": "csp_XiaoZhiTiao",
-      "name": "🔍┃阿里┃纸条",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🔍‍┃阿里┃PanS",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Upyunso",
-      "name": "🔍┃阿里┃云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Alips",
-      "name": "🔍┃阿里┃盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-
-    {
-      "key": "Yisou",
-      "name": "🔍┃阿里┃易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🔍┃阿里┃找片",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
-    },
-	  
-    {
-      "key": "Zhaozy",
-      "name": "🔎资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
-    },
-    {
-       "key":"csp_search_Upyunso",
-       "name":"🔎┃云搜搜索",
-       "type":3,
-       "api":"csp_UpYun",
-       "playerType":1,
-       "searchable":1,
-       "quickSearch" :1,
-       "filterable":0,
-       "ext":"782c15afa660408b8b6d9289ff8b79d6"
-     },
+    
      {
      "key":"北极狐", 
      "name": "📛TH┃北极狐4K", 
