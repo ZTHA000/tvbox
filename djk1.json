@@ -29,6 +29,16 @@
       "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Doubanrebo.js"
     },
     {
+      "key": "csp_KungFu404",
+      "name": "📛┃阿里┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
+    },	  
+    {
       "key": "YGP",
       "name": "🚀TH┃即将上映",
       "type": 3,
@@ -47,6 +57,16 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
+    {
+      "key": "玩偶哥哥",
+      "name": "➰‍TH┃玩偶4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },	  
    {
       "key": "csp_WoGG1",
       "name": "➰‍TH┃玩偶4KBY",
@@ -97,6 +117,17 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6V.js"
     },
+    {
+      "key": "js_荐片",
+      "name": "⏳TH┃荐片影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/荐片.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	  
     {
       "key": "XYQH_电影港",
       "name": "🧲TH┃港口磁力",
