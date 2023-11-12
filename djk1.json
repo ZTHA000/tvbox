@@ -22,11 +22,11 @@
       "key": "js豆瓣",
       "name": "📛微信公众号┃整挺好啊【2023-11-6接口更新】",
       "type": 3,
-      "api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Doubanrebo.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
     },
     {
       "key": "csp_KungFu404",
