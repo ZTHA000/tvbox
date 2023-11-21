@@ -14,11 +14,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "2023-11-4更新接口，每次打开记得长按主页刷新！",
+  "warningText": "2023-11-21更新接口，每次打开记得长按主页刷新！",
   "sites": [
         {
       "key": "js豆瓣",
-      "name": "📛TH┃挺好专享【2023-10-27更新接口，长按主页刷新】",
+      "name": "📛TH┃挺好专享【2023-11-21更新接口，长按主页刷新】",
       "type": 3,
       "api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js",
       "searchable": 0,
