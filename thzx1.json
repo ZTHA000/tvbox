@@ -81,44 +81,6 @@
       "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
     },
     {
-      "key": "纸条",
-      "name": "🔍纸条|搜索",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://pan.shangui.cc/f/8VKpHo/ali.jar"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🔍阿里|盘搜",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "1020592f69a14d0c9e4d29d7fb95098e"
-    },
-    {
-      "key": "7",
-      "name": "-----福利分割线-----",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "8",
-      "name": "-----福利分割线-----",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
       "key": "chengren",
       "name": "🈵成人影视1",
       "type": 1,
@@ -260,34 +222,6 @@
       "filterable": 0
     },
     {
-      "key": "*快播盒子资源",
-      "name": "🈴快播盒子资源",
-      "type": 0,
-      "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*大香蕉资源",
-      "name": "🈴大香蕉资源",
-      "type": 0,
-      "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "523采集",
-      "name": "🈴523av",
-      "type": 0,
-      "api": "https://caiji.523zyw.com/inc/api.php",
-      "playUrl": "https://api.523zyw.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*我要啪啪",
       "name": "🈴我要啪啪",
       "type": 0,
@@ -321,24 +255,6 @@
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "1",
-      "name": "-----福利分割线-----",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "2",
-      "name": "-----福利分割线-----",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
     },
     {
       "key": "探探资源",
@@ -405,24 +321,6 @@
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "15",
-      "name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "16",
-      "name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
     },
     {
       "key": "csp_xBPQ_超清",
@@ -686,24 +584,6 @@
       ]
     },
     {
-      "key": "17",
-      "name": "⇣⇣⇣⇣20230827⇣⇣⇣⇣",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "18",
-      "name": "⇣⇣⇣⇣20230827⇣⇣⇣⇣",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
       "key": "量子",
       "name": "🈶量子伦理",
       "type": 0,
@@ -787,18 +667,6 @@
       }
     },
     {
-      "key": "fhapi9.com",
-      "name": "🈶成人12",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "api.maozyapi.com",
       "name": "🈶成人33",
       "type": 1,
@@ -827,18 +695,6 @@
       "name": "🈶成人40",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "lbapi9.com",
-      "name": "🈶成人43",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -895,30 +751,6 @@
       }
     },
     {
-      "key": "sewozyapi.com",
-      "name": "🈶成人50",
-      "type": 1,
-      "api": "https://sewozyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "api.apilyzy.com",
-      "name": "🈶成人52",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "10",
       "name": "📛精选自用且免费📛",
       "api": "1",
@@ -930,24 +762,6 @@
     {
       "key": "11",
       "name": "📛请勿付费使用📛",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "12",
-      "name": "📛微信公众号📛",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "13",
-      "name": "📛挺好分享📛",
       "api": "1",
       "type": 3,
       "filterable": 0,
