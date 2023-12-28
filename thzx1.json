@@ -15,22 +15,13 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "📛TH┃挺好专享【2023-12-28更新接口，长按主页刷新】",
+      "name": "🔞挺好专享【2023-12-28更新接口】",
       "type": 3,
       "api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Doubanrebo.js"
-    },
-    {
-      "key": "YGP",
-      "name": "🚀TH┃即将上映",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "直播转点播2",
@@ -123,15 +114,6 @@
       "filterable": 1
     },
     {
-      "key": "哥哥妹妹",
-      "name": "🈴哥哥妹妹",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "*CK资源",
       "name": "🈴CK资源",
       "type": 1,
@@ -154,15 +136,6 @@
       "name": "🈴白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*色色资源",
-      "name": "🈴色色资源",
-      "type": 0,
-      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -204,106 +177,12 @@
       "filterable": 0
     },
     {
-      "key": "*AV集中淫",
-      "name": "🈴AV集中淫",
-      "type": 0,
-      "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*黄瓜TV资源",
-      "name": "🈴黄瓜TV资源",
-      "type": 0,
-      "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*我要啪啪",
-      "name": "🈴我要啪啪",
-      "type": 0,
-      "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*大屌丝资源",
-      "name": "🈴大屌丝资源",
-      "type": 0,
-      "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp059",
-      "name": "🈴番号资源",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*色猫资源",
       "name": "🈴色猫资源",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "探探资源",
-      "name": "🔞探探资源",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "91麻豆",
-      "name": "🔞91麻豆源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*速度资源",
-      "name": "🔞速度资源",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "花魁资源",
-      "name": "🔞花魁资源",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*乐播资源",
-      "name": "🔞乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "KOK资源",
-      "name": "🔞KOK资源",
-      "type": 1,
-      "api": "https://api.vodkok2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "鸡坤资源",
@@ -321,17 +200,6 @@
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "csp_xBPQ_超清",
-      "name": "🚸香蕉超清",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
-      "jar": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
     },
     {
       "key": "dadiapi.com",
@@ -395,60 +263,6 @@
         "麻豆传媒",
         "女同人妖",
         "恋腿癖"
-      ]
-    },
-    {
-      "key": "森林专场",
-      "name": "🚸森林采集",
-      "type": 1,
-      "api": "https://slapibf.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "精品推荐",
-        "国产色情",
-        "主播直播",
-        "亚洲无码",
-        "亚洲有码",
-        "中文字幕",
-        "巨乳美乳",
-        "人妻熟女",
-        "强奸乱伦",
-        "欧美精品",
-        "萝莉少女",
-        "伦理三级",
-        "成人动漫",
-        "自拍偷拍",
-        "制服丝袜",
-        "口交颜射",
-        "日本精品",
-        "Cosplay",
-        "素人自拍",
-        "台湾辣妹",
-        "韩国御姐",
-        "唯美港姐",
-        "东南亚AV",
-        "欺辱凌辱",
-        "剧情介绍",
-        "多人多P",
-        "91探花",
-        "网红流出",
-        "野外露出",
-        "古装扮演",
-        "女优系列",
-        "可爱学生",
-        "风情旗袍",
-        "兽耳系列",
-        "瑜伽裤",
-        "闷骚护士",
-        "过膝袜",
-        "网曝门",
-        "传媒出品",
-        "女同性恋",
-        "男同性恋",
-        "恋腿狂魔"
       ]
     },
     {
@@ -520,67 +334,6 @@
         "精选独家",
         "貧乳小奶",
         "探花系列"
-      ]
-    },
-    {
-      "key": "番外",
-      "name": "🚸番外采集",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "群交淫乱",
-        "偷拍自拍",
-        "制服丝袜",
-        "无码专区",
-        "卡通动漫",
-        "中文字幕",
-        "欧美性爱",
-        "巨乳美乳",
-        "国产裸聊",
-        "国产自拍",
-        "国产盗摄",
-        "伦理三级",
-        "女同性恋",
-        "少女萝莉",
-        "人妖系列",
-        "虚拟VR"
-      ]
-    },
-    {
-      "key": "色窝资源",
-      "name": "🚸色窝资源",
-      "type": 1,
-      "api": "https://sewozyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "制服黑丝",
-        "强奸乱伦",
-        "国产情色",
-        "主播直播",
-        "动漫里番",
-        "日韩综合",
-        "欧美性爱",
-        "中文字幕",
-        "强奸乱伦",
-        "巨乳美乳",
-        "变态调教",
-        "自拍偷拍",
-        "熟女人妻",
-        "日本无码",
-        "日本有码",
-        "少女萝莉",
-        "三级伦理",
-        "明星偶像",
-        "美女模特",
-        "AI换脸",
-        "国产传媒"
       ]
     },
     {
