@@ -1,8 +1,8 @@
 {"urls":[
-{"name":"📛公众号丨挺好分享","url":"http://111.67.196.189/tvbox/thdjk.json"},
-{"name":"📛TH丨短剧影视","url":"https://codeberg.org/ztha/tvbox/raw/branch/main/duanju.json"}, 
-{"name":"🐧挺好丨阿里专线","url":"https://yydsys.top/duo/ali"},
-{"name":"💹挺好丨多多接口","url":"http://yydsys.top/duo"},
+{"name":"📛公众号丨挺好分享","url":"http://39.100.77.41/TVBox/thdjk.json"},
+{"name":"🧶挺好分享丨挺好[JS]","url":"http://39.100.77.41/catjs/JS/js.json"},  
+{"name":"📛挺好分享丨无忧影视","url":"http://39.100.77.41/TVBox/无忧.json"},
+{"name":"➰挺好分享丨挺好阿里","url":"http://39.100.77.41/TVBox/THali.json"},
 {"name":"☁挺好丨云星影视","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
 {"name":"🦌挺好丨吾爱影视","url":"http://52bsj.vip:98/wuai"},
 {"name":"🧊挺好丨月光宝盒","url":"https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json"},  
@@ -15,7 +15,6 @@
 {"name":"💦挺好丨巧技巧技","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"📿挺好丨神秘哥哥","url":"https://神器每日推送.tk/pz.json"},
 {"name":"🦊挺好丨warnig","url":"https://agit.ai/wifi/ts/raw/branch/master/210.bmp"},
-{"name":"🌪挺好丨南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-{"name":"🏡挺好丨潇洒","url":"https://la.kstore.space/download/2863/01.txt"}
+{"name":"🌪挺好丨南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"}
 
 ]}
