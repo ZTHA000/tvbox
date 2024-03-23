@@ -1,5 +1,4 @@
 {
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
@@ -14,25 +13,30 @@
   ],
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "🔞挺好专享【2023-12-29更新接口】",
-      "type": 3,
-      "api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Doubanrebo.js"
-    },
-    {
-      "key": "直播转点播2",
-      "name": "📛TH┃福利点播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/apiv53zbzdb.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
-    },
+        "key": "火狐",
+        "name": "📛挺好69【2024/3/20】",
+        "type": 1,
+        "api": "https://hhzyapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 0,
+        "filterable": 1,
+        "categories": ["内地剧","动作片","科幻片","战争片",
+                        "喜剧片","爱情片","恐怖片","犯罪片",
+                        "剧情片","冒险片","记录片","韩剧",
+                        "香港剧","台湾剧","欧美剧","日剧",
+                        "马泰剧","体育赛事","综艺","动画片",
+                        "中国动漫","日本动漫","欧美动漫","伦理片"]
+     },
+     {
+       "key":"直播转点播1",
+       "name":"📛TH┃福利点播",
+       "type": 3,
+       "api":"http://127.0.0.1:9978/file/TVBox/JS/lib/直播转点播2.js",
+       "ext":"https://cloud.lxweb.cn/f/MQp2HG/%E7%9B%B4%E6%92%AD.txt"
+       },
     {
       "key": "csp_WoGG",
-      "name": "📛TH┃资源4K",
+      "name": "📛TH┃资源影视",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -42,7 +46,7 @@
     },
     {
       "key": "yunyun",
-      "name": "📛TH┃飞云2K",
+      "name": "📛TH┃飞云影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -51,15 +55,12 @@
       "ext": "https://pan.shangui.cc/f/ka2ETR/%E4%BA%91%E4%BA%91.json",
       "jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
     },
-    {
-      "key": "csp_appysv2_阿里影视",
-      "name": "📛TH┃阿里萝卜",
+     {
+      "key": "drpy_js_ikanbot3",
+      "name": "📛TH┃爱看影视",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://aliys.cn:90/api.php/v1.vod"
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/ikanbot3.js"
     },
     {
       "key": "csp_DiDuan",
